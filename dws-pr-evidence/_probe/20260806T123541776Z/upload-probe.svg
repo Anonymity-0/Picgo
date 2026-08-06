@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640">
+  <rect width="1200" height="640" fill="#111827"/>
+  <rect x="48" y="48" width="1104" height="544" rx="20" fill="#1f2937" stroke="#4b5563" stroke-width="2"/>
+  <text x="88" y="130" fill="#f9fafb" font-family="Menlo, monospace" font-size="34">DWS Agent Evidence Upload Probe</text>
+  <text x="88" y="205" fill="#93c5fd" font-family="Menlo, monospace" font-size="25">target: Anonymity-0/Picgo</text>
+  <text x="88" y="255" fill="#93c5fd" font-family="Menlo, monospace" font-size="25">branch: main</text>
+  <text x="88" y="305" fill="#93c5fd" font-family="Menlo, monospace" font-size="25">run: 20260806T123541776Z</text>
+  <text x="88" y="395" fill="#86efac" font-family="Menlo, monospace" font-size="30">UPLOAD_PROBE_READY</text>
+  <text x="88" y="465" fill="#d1d5db" font-family="Menlo, monospace" font-size="22">No credentials, account IDs, or business data included.</text>
+</svg>
